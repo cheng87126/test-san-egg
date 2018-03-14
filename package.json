@@ -1,0 +1,28 @@
+{
+  "name": "test-san-egg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheng87126/test-san-egg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheng87126/test-san-egg/issues"
+  },
+  "homepage": "https://github.com/cheng87126/test-san-egg#readme",
+  "devDependencies": {
+    "egg-bin": "^4.3.7"
+  },
+  "dependencies": {
+    "egg": "^2.4.1",
+    "egg-mysql": "^3.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+li input{
+	display: none;
+}
+.edit input{
+	display: block;
+}
+.edit span{
+	display: none;
+}
